@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    background-color: rgb(197, 163, 90);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 100px;  
+    font-family: sans-serif;
+}
+
+.myButton{
+    font-size: 2em;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    padding: 40px;
+
+}
